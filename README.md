@@ -14,6 +14,8 @@ express.js 프레임워크와 TypeORM(pooling기능)을 사용하여 데이터�
 - JavaScript
 - NodeJS
 - ExpressJS
+- MySQL
+- TypeORM(Pooling 기능만 사용)
 
 ## 설명
 - ES모듈로 서버 구동 시 package.js에서 "main"항목 다음에 `"type" : "module"` 추가해야 함
